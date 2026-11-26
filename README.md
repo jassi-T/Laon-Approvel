@@ -150,4 +150,4 @@ loan-approval-prediction/
 
 ## Author
 
-Add your name and GitHub profile here.
+Harpreet Singh and GitHub profile jass-T.

@@ -151,3 +151,8 @@ loan-approval-prediction/
 ## Author
 
 Harpreet Singh and GitHub profile jass-T.
+
+## Live Demo 
+
+You can access my demo from here
+https://laon-approvel-ldheuvgdlavpyprnetbrfs.streamlit.app/
